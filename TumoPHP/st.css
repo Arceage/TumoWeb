@@ -1,0 +1,33 @@
+.div{
+
+margin: 0 .5em;
+}
+.intext{
+font-family: 'Gugi', cursive;
+color: lightblue;
+text-shadow: 3px 3px black;
+}
+main{
+	
+    width: 30em;
+    margin: 0 auto;
+    text-align: center;
+    border: 5px solid red;
+    margin-top: 100px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    background-image:url(bc.jpg);
+}
+body{
+	background-color: rgb(217, 219, 214);
+}
+.ch{
+	background-color: rgb(202, 205, 230);
+	border-radius: 5px;
+	margin-left: 70px;
+	margin-right: 70px;
+	font-family: 'Righteous', cursive;
+}
+.delete{
+background-color: red;
+}

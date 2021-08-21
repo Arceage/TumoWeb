@@ -1,0 +1,98 @@
+.rom {
+width: 400px;
+height: 400px;
+display:inline-block;
+border: 2px solid rgb(241, 158, 159);
+margin-top: 10px;
+margin-left: 11px;
+padding: 20px;
+border-radius: 20px;
+background-image: url(oker.jpg);
+float: left;
+}
+.lol {
+text-align: center;
+font-family: 'Orbitron', sans-serif;
+background-color: rgb(241, 158, 159);
+border-radius: 10px;
+border: 1px solid rgb(175, 203, 207);
+}
+.pox {
+	text-align: center;
+font-family: 'Anton', sans-serif;
+}
+.arnel {
+text-align: center;
+font-family: 'Righteous', cursive;
+text-decoration: underline overline;
+color: rgb(160, 112, 33);
+}
+
+.lem {
+width: 230px;
+height: 230px;
+
+}
+.pov{
+	text-align: center;
+}
+.chgitem{
+		border:  2px solid;
+}
+body{
+	background-color: rgb(217, 219, 214);
+}
+
+.kek{
+	text-align: center;
+}
+.proinfo{
+	font-family: 'Wallpoet', cursive;
+	text-align: center;
+	font-size: 30px;
+	border-top: 2px solid;
+	border-radius: 3px;
+	background-color: rgb(195, 66, 70);
+	margin-bottom: 0px;
+}
+.info{
+width: 700px;
+display: inline-block;
+padding-top: 10px;
+}
+.buy{
+	text-align: center;
+}
+.drug{
+	display: inline-block;
+font-family: 'Ultra', serif;
+color: rgb(80, 154, 194);
+}
+.sirun{
+	font-family: 'Orbitron', sans-serif;
+	display: inline-block;
+
+}
+.php{
+	padding-left: 20px;
+	padding-right: 20px;
+	border-bottom: 2px solid rgb(241, 158, 159);
+	border-right:2px solid rgb(241, 158, 159);;
+	border-radius: 8px;
+	background-color: rgb(237, 215, 223);
+
+}
+.phpdiv{
+	text-align: center;
+}
+.arnell{
+
+	font-size: 30px;
+	width: 130px;
+	font-family: 'Audiowide', cursive;
+	color: rgb(195, 142, 8);
+}
+.verj{
+	margin-left: 400px;
+	margin-top: 200px;
+}

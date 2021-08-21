@@ -1,0 +1,72 @@
+.logophone {
+    height: 100px;
+    border: 3px solid black;
+}
+.logo {
+    font-size: 50px;
+    padding-left: 40px;
+    padding-top: 20px;
+    float: left;
+}
+.glux {
+    width: 100px;
+}
+.phones {
+    padding-top: 40px;
+    margin-left: 1500px;
+}
+.ok {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.active {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: relative;
+}
+.dropdown {
+    padding: 14px 16px;
+}
+.ok li {
+    float: left;
+}
+.active a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.active a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.active a:hover {
+	background-color: #111;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown-content a:hover {background-color: #f1f1f1}

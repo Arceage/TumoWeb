@@ -1,0 +1,389 @@
+.logophone{
+	height: 100px;
+	border: 3px solid black;
+}
+.logo{
+	font-size: 50px;
+	padding-left: 40px;
+	padding-top: 20px;
+	float:left;
+}
+.phones{
+	padding-top: 40px;
+	margin-left: 1500px;
+}
+
+.all{
+	list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+.glxavor{
+	width: 700px;
+	height: 400px;
+
+}
+.home{
+	margin-left:20px;
+	margin-top: 20px;
+    width: 700px;
+		height: 510px;
+		float: left;
+}
+.nerqevi{
+    width: 200px;
+    height: 100px;
+}
+.allnerqevi{
+		list-style-type: none;
+		    padding-left: 0px;
+  overflow: hidden;
+}
+.active1{
+	 float: left;
+}
+.active2{
+	 float: left;
+    margin-left: 50px;
+}
+.homeinfo{
+	float: left;
+	width: 1000px;
+	height: 510px;
+	margin-left: 20px;
+	position: relative;
+}
+.glux{
+	    width: 100px;
+}
+.infotext{
+	font-size: 20px;
+}
+.Buddha{
+	position: absolute;
+	bottom:7px;
+	margin-left: 20px;
+	padding-right: 20px;
+	bottom: -20px;
+}
+.vernagir{
+	font-size: 70px;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	margin-bottom: 0px;
+}
+.budatext{
+	font-size: 20px;
+}
+.yndhanur{
+	height: 1100px;
+border: 3px solid;
+}
+.boss{
+	position: absolute;
+	bottom: -145px;
+	border: 3px solid black;
+	width: 1878px;
+}
+.bossinfoday{
+	margin-left: 1500px;
+margin-bottom: 20px;
+}
+.bossinfo{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.prohtml{
+	margin: 50px;
+}
+.paragrafhtml{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.fotoshtml{
+display: inline;
+margin-right: 70px;
+}
+.fotoshtml1{
+float: left;
+list-style-type: none;
+margin-left: -38px;
+margin-right: 60px;
+}
+.verevi2{
+	width: 400px;
+	height: 200px;
+}
+.imghtml{
+	height: 200px;
+}
+.boss2{
+	border: 1px solid black;
+	margin-top: 160px;
+	padding: 50px;
+	background-color: beige
+}
+.bossinfod7{
+float: left;
+margin-right: 1300px;
+}
+body{
+	background-image: url(https://dnd5e.fandom.com/skins/oasis/images/themes/creamsicle.jpg)
+}
+.css{
+	text-align: center;
+	border: 2px solid rgb(85, 81, 81);
+	border-radius: 11px;
+	background-color: rgb(207, 201, 201);
+	margin-bottom: 30px;
+}
+.nerqevier{
+	width: 400px;
+	height: 158px;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+.imgscss{
+	background-color: beige;
+}
+.ioke{
+	border: 1px solid;
+	padding-left: 10px;
+	border-radius: 40px;
+	background-color: rgb(241, 217, 189);
+}
+.bosse2{
+	margin-top: 100px;
+	border-top:4px solid white; 
+}
+.prohtml2{
+	margin-left: 200px;
+	width: 300px;
+ float: left;
+ margin-right: 30px;
+}
+.protot{
+	font-size: 33px;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+}
+.erbek{
+	width: 300px;
+}
+.divot{
+	margin-top: 85px;
+	margin-left: 100px;
+	float: left;
+	margin-right: 150px;
+}
+.name{
+	font-size: 24px;
+}
+.hh{
+	font-family: 'B612', sans-serif;
+	color: rgba(45, 49, 48, 0.575);
+}
+.myinfo{
+	margin-top: 370px;
+	font-size: 17px;
+	margin-right: 50px;
+	font-family: 'Righteous', cursive;
+	margin-bottom: 50px;
+}
+.mysckoll{
+	border: 2px solid rgba(0, 0, 0, 0.589);
+	font-size: 40px;
+	color: rgba(179, 116, 97, 0.692);
+	padding:10px;
+}
+.mytable{
+margin-left: 200px;
+float: left;
+}
+
+.karevor{
+	border: 2px solid rgba(0, 0, 0, 0.589);
+	font-size: 40px;
+	padding:10px;
+}
+.mysoc{
+	display: inline-block;
+	margin-left: 70px;
+	font-size: 30px;
+}
+.soc:hover{
+	background-color: beige
+}
+.soc1:hover{
+	background-color: rgba(107, 107, 62, 0.699)
+}
+
+.noneed{
+	text-decoration: none;
+}
+.bosse23{
+	margin-top: 233px;
+	border: 5px solid rgba(255, 0, 0, 0.466);
+}
+.inform{
+	font-size: 20px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color:rgb(125, 172, 241)
+}
+.prohtml23{
+	margin-left: 200px;
+	width: 300px;
+
+ margin-right: 30px;
+}
+.iframemap{
+	margin-left: 30px;
+	float: left;
+}
+.bosse234{
+	margin-top: 460px;
+	border: 5px solid rgba(255, 0, 0, 0.466);
+}
+.like{
+	display: inline-block;
+	margin-left: 630px;
+	border-top: 2px solid rgba(54, 42, 42, 0.493);
+	border-right: 2px solid rgba(54, 42, 42, 0.493);
+	padding-right: 15px;
+	margin-top: 15px;
+	border-radius: 22px;
+}
+.me{
+	font-size: 50px;
+	font-weight: bold;
+}
+.mano{
+float: left;
+}
+.myso5c{
+	display: inline-block;
+	margin-left: 70px;
+	font-size: 30px;
+	border-bottom: 2px solid rgba(54, 42, 42, 0.493);
+	border-left: 2px solid rgba(54, 42, 42, 0.493);
+	padding-bottom: 20px;
+	border-radius: 22px;
+}
+.damaljima{
+	margin-top: 420px;
+	padding-left: 50px;
+	border-top: 2px solid;
+	padding-top: 5px;
+}
+.bossinfode7{
+	float: left;
+	margin-right: 1300px;
+}
+.kek{
+	text-shadow: 2px 2px #FF0000;
+	margin:0px;
+	font-size: 20px;
+}
+
+.ok {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+.active a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.active.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown{
+	padding: 14px 16px;
+}
+.ok li{
+  float: left;
+}
+ .active a{
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.active a:hover {
+	background-color: #111;
+}
+.active {
+	float: left;
+	 color: white;
+	 text-align: center;
+	 padding: 14px 16px;
+	 text-decoration: none;
+	 position: relative;
+ }
+ .mok{
+	 background-image: url(oker.png)
+ }
+.nopro{
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
+.pro{
+	background-color: lightblue;
+	padding:1px;
+}
+.jij{
+	margin-top: 80px;
+}
+.gopro{
+	font-size: 30px;
+	font-family: 'Anton', sans-serif;
+	color:rgb(189, 186, 20);
+}
+.gho{
+	width: 300px;
+	height: 300px;
+	margin-left: 40px;
+}
+.parag{
+	background-color: rgb(88, 138, 138);
+	border-radius: 8px;
+	text-align: center;
+}
+.prowas{
+	font-size: 50px;
+}
